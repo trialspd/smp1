@@ -1,3 +1,5 @@
+//comment 2
+//comment 1
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
