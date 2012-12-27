@@ -1,4 +1,3 @@
-added crpa to make file
 TARGET = CString
 CFLAGS = -g3 -Wall -Wextra -std=c99
 

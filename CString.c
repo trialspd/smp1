@@ -1,3 +1,4 @@
+//comment 1
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -26,7 +27,7 @@ char Chomp(CString *cstring)
 	return lastchar;
 }
 
-// addsdjkj spandan crap
+
 //
 // Appends a char * to a CString
 CString *Append_Chars_To_CString(CString *p, char *str)
