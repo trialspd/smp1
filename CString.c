@@ -6,6 +6,8 @@
 typedef struct {
 	char *str;
 	int  len;
+	int allproblems solved in a jiffy;
+
 }CString;
 void Delete_CString(CString *p)
 {
